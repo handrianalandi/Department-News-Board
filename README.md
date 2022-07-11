@@ -1,4 +1,4 @@
-# Department-News-Board<br>
+# Department News Board<hr />
 
 a Department News Board service that able to :<br>
 upload a news without attachment file (locally)(must logged in)<br>
@@ -13,7 +13,7 @@ this project also implement session, user must logged in in order to use some of
 please kindly look at the documentation about how the service works :https://documenter.getpostman.com/view/13165507/UzBiRV5B
 
 
-# Department News Board<hr />
+
 ## Post New News<br /> 
 ```POST```&nbsp;&nbsp;&nbsp;localhost:8000/news<br />  
 > ### Response
